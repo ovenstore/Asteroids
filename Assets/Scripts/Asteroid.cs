@@ -1,4 +1,4 @@
-using UnityEditor.Callbacks; // Test
+using UnityEditor.Callbacks;
 using UnityEngine;
 
 public class Asteroid : MonoBehaviour
